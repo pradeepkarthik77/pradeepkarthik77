@@ -4,4 +4,6 @@ Hi👋! I'm interested in solving real-world problems with the power of Technolo
 <br>
 
 Contact Me:
-[Linkedin](![image](https://github.com/pradeepkarthik77/pradeepkarthik77/assets/77573751/bb8e8e9d-8aa4-49c6-8dc2-8f983b6e8410)
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
