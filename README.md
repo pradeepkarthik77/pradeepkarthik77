@@ -4,7 +4,7 @@ Hi👋! I'm interested in solving real-world problems with the power of Technolo
 <br>
 <hr>
 
-### Contact Me On:
+### Let's Connect:
 <a href="https://www.linkedin.com/in/pradeep-karthik-muthusamy-bb172a217/">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>
 </a>
@@ -17,3 +17,5 @@ Hi👋! I'm interested in solving real-world problems with the power of Technolo
 <a href="https://twitter.com/pradeepkarthikm">
   <img height="50"  src="https://cdn-icons-png.flaticon.com/512/145/145812.png"/>
 </a>
+<hr>
+Skills:
