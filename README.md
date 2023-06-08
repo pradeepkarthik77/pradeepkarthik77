@@ -44,5 +44,6 @@ Hi👋! I'm interested in solving real-world problems with the power of Technolo
 
 <!-- [![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepkarthik77&hide=issues)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkarthik77&layout=compact&count_weight=1&size_weight=0&theme=transparent)
+&nbsp;&nbsp;
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepkarthik77&show_icons=true&theme=transparent&hide=issues)
 
