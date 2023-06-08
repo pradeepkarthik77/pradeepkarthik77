@@ -6,11 +6,11 @@ Hi👋! I'm interested in solving real-world problems with the power of Technolo
 
 ### Contact Me:
 <a href="https://www.linkedin.com/in/pradeep-karthik-muthusamy-bb172a217/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>
 </a>
-<a href="https://www.instagram.com/pradeep_karthik_77/">
-  <img height="54" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-256.png" style="margin-top: 10px;" />
+<a href="https://www.instagram.com/pradeep_karthik_77/" style="margin-top: 10px;">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  />
 </a>
 <a href="mailto:pradeepkarthikm@gmail.com">
-  <img height="57" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png"/>
+  <img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png"/>
 </a>
