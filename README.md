@@ -1,5 +1,7 @@
 ### Pradeep Karthik M
 
+Hi👋! I'm interested in solving real-world problems with the power of Technology and anything related to tech interests me. Have an idea to be implemented or a problem to be solved? Hit me up and we'll work together :)
+
 <!--
 **pradeepkarthik77/pradeepkarthik77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
