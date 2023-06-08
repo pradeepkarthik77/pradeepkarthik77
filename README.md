@@ -47,4 +47,4 @@ Hi👋! I'm interested in solving real-world problems with the power of Technolo
 &nbsp;&nbsp;
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepkarthik77&show_icons=true&theme=transparent&hide=issues)
 
-![Snake animation](https://github.com/pradeepkarthik77/pradeepkarthik77/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/pradeepkarthik77/pradeepkarthik77/blob/output/github-contribution-grid-snake.svg) -->
