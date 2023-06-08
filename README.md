@@ -14,3 +14,6 @@ Hi👋! I'm interested in solving real-world problems with the power of Technolo
 <a href="mailto:pradeepkarthikm@gmail.com">
   <img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png"/>
 </a>
+<a href="https://twitter.com/pradeepkarthikm">
+  <img height="50"  src="https://cdn-icons-png.flaticon.com/512/145/145812.png"/>
+</a>
