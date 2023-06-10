@@ -18,6 +18,9 @@ Hi👋! I'm interested in solving real-world problems with the power of Technolo
 <a href="https://twitter.com/pradeepkarthikm">
   <img height="50"  src="https://cdn-icons-png.flaticon.com/512/145/145812.png"/>
 </a>
+<a href="https://medium.com/@pradeepkarthikm">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png"/>
+</a>
 <hr>
 <h2> 🛠️ &nbsp;Skills</h2>
 <p align="left">
