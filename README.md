@@ -2,7 +2,6 @@
 <hr>
 Hi👋! I'm interested in solving real-world problems with the power of Technology and anything related to tech interests me. Have an idea? Hit me up and we'll work together :)
 <br/>
-![](https://komarev.com/ghpvc/?username=pradeepkarthik77)
 <br>
 <hr>
 
