@@ -1,8 +1,7 @@
 ### Pradeep Karthik M
 ![](https://komarev.com/ghpvc/?username=pradeepkarthik77)
 <hr>
-It's Okay Git Happens!
-<br/>
+It's Okay Git Happens
 <br>
 <hr>
 
